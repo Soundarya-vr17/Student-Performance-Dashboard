@@ -34,7 +34,7 @@ The dataset contains:
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading)
+![Dashboard](Dashboard_Screenshot.png)
 
 ## Author
 Soundarya
